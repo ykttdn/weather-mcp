@@ -23,5 +23,9 @@
   "devDependencies": {
     "@types/node": "^24.5.2",
     "typescript": "^5.9.2"
+  },
+  "volta": {
+    "node": "24.8.0",
+    "npm": "11.6.0"
   }
 }
